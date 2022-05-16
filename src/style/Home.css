@@ -1,0 +1,97 @@
+.home {
+    height: 100vh;
+    background:url("../assets/img/bg/romance.jpg");
+    background-size: cover;
+    background-position-y: -200px;
+}
+.navBrand{
+    font-weight: 600;
+}
+.myBg {
+    margin: 100px;
+}
+.deskripsi{
+    
+    background: linear-gradient(0deg, rgba(48,48,48,1) 0%, rgba(50,27,6,1) 100%);
+    height: 100vh;
+    margin-top: 289px;
+}
+.footer{
+    background: black;
+    height: 10vh;
+}
+.search {
+    margin-top: 10%;
+    
+}
+.title {
+    font-size: 3rem;
+    font-weight: 700;
+    text-shadow: 2px 2px black;
+    letter-spacing: 3px;
+    margin-top: -10%;
+    margin-bottom: 40%;
+}
+.trending_card {
+
+    height: 100vh;
+    background: rgb(48, 48, 48);
+}
+.carousel{
+    padding-top: 5%;
+    width: 300px;
+    margin:auto; 
+}
+.carousel2{
+    margin-top: 128px;
+}
+#trending-text {
+    padding: 30px 20px 30px 0.1%;
+    color: white;
+    font-weight: 600;
+}
+.sedang_tayang{
+    padding-bottom: 800px;
+    height: 200vh;
+    background: rgb(31, 31, 31); 
+}
+.cardorder{
+    padding-top: 10%;
+    width: 300px;
+    margin:auto; 
+}
+.cardorder:hover{
+    background: rgb(207, 0, 0);
+    border-radius: 5px;
+}
+#sedangtayang-text {
+    padding: 30px 20px 30px 7%;
+    color: white;
+    font-weight: 600;
+    
+}
+.titledes{
+    font-size: 3rem;
+    padding-top: 20vh;
+    text-align: center;
+    font-weight: 400;
+    letter-spacing: 5px;
+}
+.paragdes{
+    padding-top: 5em;
+    font-size: 1rem;
+    text-align: center;
+    max-width: 60%;
+    margin-left: 20%;
+    font-family: sans-serif;
+}
+.copyright{
+    padding-top: 10px;
+    padding-left: 40%;
+    font-weight: 500;
+}
+.medsos {
+    padding-top: 25px;
+    padding-left: 70%;
+    font-weight: 500;
+}

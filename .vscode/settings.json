@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 20,
+    "window.zoomLevel": 0, 
+    "terminal.integrated.fontSize": 15,
+    "workbench.colorTheme": "Mayukai Mirage",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Fira Code,Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true
+}

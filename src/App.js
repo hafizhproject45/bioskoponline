@@ -1,23 +1,33 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import NavigationBar from "./components/NavigationBar";
+import Home from "./components/Home";
+import Trending from "./components/Trending";
+import SedangTayang from "./components/SedangTayang";
+import Deskripsi from "./components/Deskripsi";
+import Footer from "./components/Footer";
+import "./style/Home.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="home">
+      <div>
+        <NavigationBar />
+      </div>
+      <div>
+        <Home />
+      </div>
+      <div id="deskripsi">
+        <Deskripsi />
+      </div>
+      <div id="trending">
+        <Trending />
+      </div>
+      <div id="sedangtayang">
+        <SedangTayang />
+      </div>
+      <div>
+        <Footer />
+      </div>
     </div>
   );
 }
