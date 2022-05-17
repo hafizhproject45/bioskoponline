@@ -11,7 +11,7 @@ const footer = () => {
             </div>
           </Col>
           <Col className="medsos">
-            Media Sosial :
+            Media Social :
             <a href="https://www.instagram.com/hafizh.png/?hl=id">
               {" "}
               Instagram{" "}

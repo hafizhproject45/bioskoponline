@@ -2,7 +2,6 @@ import { Container, Row, Col, Card } from "react-bootstrap";
 import antmanImage from "../assets/img/superhero/antman.jpg";
 import avengerImage from "../assets/img/superhero/avenger.jpg";
 import batmanImage from "../assets/img/superhero/batman.jpg";
-import robinhoodImage from "../assets/img/superhero/robinhood.jpg";
 import spidermanImage from "../assets/img/superhero/spiderman-cover.jpg";
 import supermanImage from "../assets/img/superhero/superman.jpg";
 import doctorstrangeImage from "../assets/img/tranding/doctorstrange.jpg";
